@@ -24,10 +24,3 @@ img {
   justify-content: center;
   background: #eee;
 }
-
-.images {
-  display: flex;
-  margin: 0;
-  padding: 0;
-  justify-content: center;
-}
