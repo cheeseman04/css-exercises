@@ -4,6 +4,13 @@ html, body {
   height: 100%;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+  font-size: large;
+}
+
 body {
   font-family: Roboto, sans-serif;
   margin: 0;
@@ -34,6 +41,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
 }
 
 .close-button {
