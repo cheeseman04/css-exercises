@@ -50,3 +50,13 @@ ul {
   justify-content: space-between;
   margin: 8px;
   padding: 8px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex:auto
+  
+}
