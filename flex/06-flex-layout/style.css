@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px;
+  padding: 8px;
+}
+
 body {
   height: 100vh;
   margin: 0;
@@ -32,4 +39,6 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 8px;
 }
