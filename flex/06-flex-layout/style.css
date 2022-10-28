@@ -25,6 +25,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px;
 }
 
 input {
@@ -37,12 +38,13 @@ input {
 
 a {
   text-decoration: none;
+  color: black;
 }
 
 ul {
   list-style-type: none;
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 .footer {
@@ -50,6 +52,7 @@ ul {
   justify-content: space-between;
   margin: 8px;
   padding: 8px;
+  background-color: #eee;
 }
 
 .content {
