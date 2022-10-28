@@ -44,14 +44,15 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+  margin: 0;
+  padding: 0;
   gap: 16px;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 8px;
-  padding: 8px;
+  padding: 16px;
   background-color: #eee;
 }
 
